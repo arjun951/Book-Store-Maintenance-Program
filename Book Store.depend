@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1617213188 source:c:\users\hp\desktop\code\book store\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<cstring>
+	<fstream>
+	<algorithm>
+	<ctime>
+	<iomanip>
+
