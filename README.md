@@ -16,4 +16,7 @@ Its's a project to keep a record of all sales, purchases, amounts, history etc i
 4. Run the code in you IDE and start by registering a new book (other fatures are of no use if you don't have any book).
 5. After registering a book you can check all other fatures.
 
+## What it looks like: 
+https://github.com/arjun951/Book-Store-Maintenance-Program/blob/master/h2.png
+
 ##### Let me know if you find any bug. Thanks
