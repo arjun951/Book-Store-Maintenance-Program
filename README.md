@@ -10,7 +10,7 @@ Its's a project to keep a record of all sales, purchases, amounts, history etc i
 5. View History (full history) - shows book title, action (sold or added) and time-date-day of action.
 
 ## How to use:
-1. Copy the code from main.cpp file to any IDE (I use code blocks) you want.
+1. Copy the code from main.cpp file in repository to any IDE (I use code blocks) you want.
 2. In your c++ project file create 2 (.txt) files named - total and total_history .
 3. In both the txt file type a zero (0) and save them.
 4. Run the code in you IDE and start by registering a new book (other fatures are of no use if you don't have any book).
