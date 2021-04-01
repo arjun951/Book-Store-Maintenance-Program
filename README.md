@@ -1,6 +1,6 @@
 # Book-Store-Maintenance-Program
 Book Store Maintenance Program in C++.
-Its's a simple project to keep a record of all sales, purchases, amounts, history etc in a book store.
+Its's a project to keep a record of all sales, purchases, amounts, history etc in a book store.
 
 ## Feateurs are as follows:
 1. Add a new book
