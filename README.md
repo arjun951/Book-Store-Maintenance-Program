@@ -17,6 +17,6 @@ Its's a project to keep a record of all sales, purchases, amounts, history etc i
 5. After registering a book you can check all other fatures.
 
 ## What it looks like: 
-https://github.com/arjun951/Book-Store-Maintenance-Program/blob/master/h2.png
+![s1](https://user-images.githubusercontent.com/67362517/158045742-bb002200-0dc6-40d8-be13-c27455c5eac6.png)
 
 ##### Let me know if you find any bug. Thanks
